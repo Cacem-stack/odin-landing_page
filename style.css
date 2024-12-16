@@ -191,7 +191,8 @@ a {
 .quote-text {
   font-size: 36px;
   color: #1f2937;
-  font-style: oblique;
+  font-style: italic;
+  font-weight: 100;
 }
 
 .header {
