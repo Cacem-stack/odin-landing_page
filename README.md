@@ -2,6 +2,8 @@
 
 ## A landing page project for The Odin Project curriculum
 
+## Live preview: http://cacem-stack.github.io/odin-landing_page
+
 ### Demonstrating
 
 - CSS styling
